@@ -1,5 +1,8 @@
+<div align="center">
+  <img src="https://media.tenor.com/Xq9lCftr1-oAAAAi/neko-hearts.gif" alt="gif">
+</div>
 
-                            ![gif](https://media.tenor.com/Xq9lCftr1-oAAAAi/neko-hearts.gif)
+ 
 # Olá! Seja bem-vindo(a) ao meu perfil! 🌸
 
 ## Sobre mim
