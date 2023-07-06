@@ -23,7 +23,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UNICV e também esto
 ## Cursos Recomendados
 
 
-- [Cursos da DNC](https://www.escoladnc.com.br/formacao-em-tecnologia/)): A formação em tecnologia é excelente, e estou aprendendo muito mesmo lá, recomendo para quem quer aprender sobre um pouquinho de tudo, tanto front quanto back!
+- [Cursos da DNC](https://www.escoladnc.com.br/formacao-em-tecnologia/): A formação em tecnologia é excelente, e estou aprendendo muito mesmo lá, recomendo para quem quer aprender sobre um pouquinho de tudo, tanto front quanto back!
 
 - [Curso de JavaScript](https://www.cursoemvideo.com/course/javascript/): Curso gratuito oferecido pelo professor Gustavo Guanabara no site Curso em Vídeo. Ele aborda desde os conceitos básicos até tópicos mais avançados, com exemplos práticos e exercícios. Incrivel também!
 
