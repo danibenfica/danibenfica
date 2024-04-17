@@ -13,7 +13,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UNICV e também esto
 
 ## Habilidades e Interesses
 
-- 💻 JavaScript | React
+- 💻 JavaScript | React | Selenium | xUnit | Cypress
 - 🌐 Desenvolvimento Front-end
 - 🎨 Artes | Design
 - 🌈 Criatividade e Inovação
