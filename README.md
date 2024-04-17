@@ -7,9 +7,9 @@
 
 ## Sobre mim
 Me chamo Daniele e sou estudante de programação, atualmente focada em JavaScript e React. Também sou apaixonada por arte!
-Recentemente, desenvolvi o projeto "DNC Kawaii Store", um e-commerce fictício que me permitiu explorar o uso de APIs e criar interações dinâmicas com JavaScript.
+Um dos projetos mais desafiadores foi o "DNC Kawaii Store", um e-commerce fictício que me permitiu explorar o uso de APIs e criar interações dinâmicas com JavaScript.
 
-Atualmente, curso Análise e Desenvolvimento de Sistemas na UNICV e também estou envolvida na área de tecnologia na DNC. Além disso, descobri minha paixão pela garantia de qualidade de software (QA) e trabalho nessa área. ❤️
+Atualmente, estou no final do curso Análise e Desenvolvimento de Sistemas na UNICV e também faço a formação na área de tecnologia na DNC. Além disso, descobri minha paixão pela garantia de qualidade de software (QA) e trabalho nessa área há um ano. ❤️
 
 ## Habilidades e Interesses
 
